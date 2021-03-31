@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  font-size: 40px;
+  margin-left: 410px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid aqua;
+  width: 180px;
+  color: rgb(66, 66, 64);
+}
+
+.itemContent {
+  width: 550px;
+  margin-bottom: 50px;
+}
+.itemContent img {
+  width: 500px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+.itemContent h4 {
+  text-align: center;
+}
+.itemContent p {
+  margin-top: 10px;
+  letter-spacing: 1.5px;
+  font: 1em sans-serif;
+}
+.itemContent button {
+  margin-left: 180px;
+  margin-bottom: 20px;
+  background-color: chocolate;
+  color: white;
+}
+.itemContent h3 {
+  color: aqua;
+}
+.loading {
+  margin-top: 30%;
+  margin-left: 36%;
+}
